@@ -1,0 +1,4 @@
+#Mon Jan 21 00:44:10 WAT 2019
+base.0=C\:\\Users\\Aloui Omar\\AndroidStudioProjects\\GestionLivres\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex
